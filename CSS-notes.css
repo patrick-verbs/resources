@@ -1,3 +1,13 @@
+/**************************
+***************************
+SECTION 1: RESET STYLESHEET
+    A reset stylesheet is an important tool for ensuring accuracy of HTML styling across multiple devices, 
+  as even the latest browsers can have different styling from one another on some HTML elements.
+
+    CSS frameworks, like Bootstrap, usually have resets before the rest of their content.
+***************************
+*/
+
 /* 
 html5doctor.com Reset Stylesheet
 v1.6.1
@@ -100,4 +110,9 @@ hr {
 input, select {
     vertical-align:middle;
 }
-/* End of html5doctor.com Reset Stylesheet */
+
+/*
+*******************************
+END SECTION 1: RESET STYLESHEET
+*******************************
+*******************************/
